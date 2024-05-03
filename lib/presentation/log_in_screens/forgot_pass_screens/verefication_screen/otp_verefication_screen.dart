@@ -107,7 +107,7 @@ class _OtpVereficationScreenState extends State<OtpVereficationScreen> {
                     ),
                   );
                 })
-              )
+              ),
             ),
             Padding(
               padding: const EdgeInsets.only(top: 20),
